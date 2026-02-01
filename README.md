@@ -71,25 +71,8 @@ Performance comparison was done across different vectorization techniques to ide
 
 ---
 
-## 🗂️ Project Structure
 
-├── data/
-
-│ └── train.csv
-
-│ └── train.csv
-
-├── notebooks/
-
-│ └── Same_Security.ipynb
-
-├── README.md
-
-
-
----
-
-## 🚀 Key Learnings
+## Key Learnings
 - Importance of text preprocessing in NLP tasks
 - Performance trade-offs between sparse (BoW, TF-IDF) and dense (Word2Vec) representations
 - Effectiveness of LSTM models in capturing semantic similarity
@@ -110,4 +93,36 @@ Performance comparison was done across different vectorization techniques to ide
 ## Future Improvements
 - Experiment with **Siamese LSTM / Bi-LSTM**
 - Use **Transformer-based models (BERT, SBERT)**
+
+---
+
+
+## Project Structure
+
+├── data/
+
+│ └── train.csv
+
+│ └── train.csv
+
+├── notebooks/
+
+│ └── Same_Security.ipynb
+
+├── README.md
+
+
+
+
+  ---
+
+## Author
+**Nisarg Patel**  
+Aspiring Data Scientist | NLP & Machine Learning Enthusiast  
+
+*This project is built for learning, experimentation, and showcasing NLP skills.*
+
+---
+
+If you find this project useful, feel free to star the repository!
 
